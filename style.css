@@ -1,0 +1,2018 @@
+.landing,
+.landing * {
+  box-sizing: border-box;
+}
+.landing {
+  background: #ffffff;
+  height: 3443px;
+  position: relative;
+  overflow: hidden;
+}
+.about {
+  position: absolute;
+  inset: 0;
+}
+.group-1597881447 {
+  width: 661px;
+  height: 356px;
+  position: static;
+}
+.k-med-journals-is-a-peer-reviewed-open-access-platform-committed-to-fostering-innovation-and-advancing-knowledge-across-medical-specialities-it-serves-as-a-trusted-forum-for-researchers-clinicians-academicians-and-healthcare-professionals-to-exchange-insights-share-groundbreaking-discoveries-and-highlight-advancements-in-the-ever-evolving-field-of-medicine-with-a-core-focus-the-journal-welcomes-high-quality-submissions-that-contribute-to-the-understanding-diagnosis-treatment-and-prevention-of-diseases-by-evidence-based-research-k-med-journals-aspires-to-bridge-the-gap-between-science-and-clinical-practice-driving-progress-in-global-healthcare {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 51px;
+  bottom: 2164px;
+  width: 661px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.k-med-journals-is-a-peer-reviewed-open-access-platform-committed-to-fostering-innovation-and-advancing-knowledge-across-medical-specialities-it-serves-as-a-trusted-forum-for-researchers-clinicians-academicians-and-healthcare-professionals-to-exchange-insights-share-groundbreaking-discoveries-and-highlight-advancements-in-the-ever-evolving-field-of-medicine-with-a-core-focus-the-journal-welcomes-high-quality-submissions-that-contribute-to-the-understanding-diagnosis-treatment-and-prevention-of-diseases-by-evidence-based-research-k-med-journals-aspires-to-bridge-the-gap-between-science-and-clinical-practice-driving-progress-in-global-healthcare-span {
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+}
+.k-med-journals-is-a-peer-reviewed-open-access-platform-committed-to-fostering-innovation-and-advancing-knowledge-across-medical-specialities-it-serves-as-a-trusted-forum-for-researchers-clinicians-academicians-and-healthcare-professionals-to-exchange-insights-share-groundbreaking-discoveries-and-highlight-advancements-in-the-ever-evolving-field-of-medicine-with-a-core-focus-the-journal-welcomes-high-quality-submissions-that-contribute-to-the-understanding-diagnosis-treatment-and-prevention-of-diseases-by-evidence-based-research-k-med-journals-aspires-to-bridge-the-gap-between-science-and-clinical-practice-driving-progress-in-global-healthcare-span2 {
+  font-family: "NuosuSil-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 400;
+}
+.group-1597881446 {
+  width: 539px;
+  height: 42px;
+  position: static;
+}
+.kmed-journals {
+  color: #275f9e;
+  text-align: left;
+  font-family: "Ponzu-Medium", sans-serif;
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 500;
+  position: absolute;
+  left: 167px;
+  top: calc(50% - 798.5px);
+}
+.about2 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "EbGaramond-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 25.71px;
+  font-weight: 400;
+  position: absolute;
+  left: 51px;
+  top: calc(50% - 782.5px);
+}
+.frame-1597881701 {
+  width: 611px;
+  height: 356px;
+  position: absolute;
+  left: 760px;
+  bottom: 2164px;
+  overflow: hidden;
+}
+.frame-1597881697 {
+  width: 154px;
+  height: 212px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow: hidden;
+}
+.image-103 {
+  width: 152px;
+  height: 213px;
+  position: absolute;
+  left: calc(50% - 77px);
+  bottom: -1px;
+  object-fit: cover;
+  aspect-ratio: 152/213;
+}
+.frame-1597881696 {
+  width: 153px;
+  height: 212px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  box-shadow: 0px 3.9px 3.9px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.image-100 {
+  width: 158.98px;
+  height: 211.98px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 0px;
+  object-fit: cover;
+  aspect-ratio: 158.98/211.98;
+}
+.frame-1597881698 {
+  width: 206px;
+  height: 285px;
+  position: absolute;
+  left: 327px;
+  top: 71px;
+  box-shadow: 3.9px 0px 19.5px 0px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.image-106 {
+  width: 205px;
+  height: 290px;
+  position: absolute;
+  right: -1px;
+  bottom: -1px;
+  object-fit: cover;
+  aspect-ratio: 205/290;
+}
+.frame-1597881693 {
+  width: 206px;
+  height: 285px;
+  position: absolute;
+  left: 81px;
+  bottom: 0px;
+  overflow: hidden;
+}
+.image-105 {
+  width: 215px;
+  height: 285px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  object-fit: cover;
+  aspect-ratio: 215/285;
+}
+.frame-1597881692 {
+  width: 254px;
+  height: 356px;
+  position: absolute;
+  left: 180px;
+  top: 0px;
+  box-shadow: 3.9px 0px 19.5px 0px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.image-102 {
+  width: 267px;
+  height: 356px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 267/356;
+}
+.group-1597881639 {
+  position: absolute;
+  inset: 0;
+}
+.group-1597881457 {
+  width: 425px;
+  height: 59px;
+  position: static;
+}
+.why-publish-with-us {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1366px;
+}
+.submit-your-manuscript-share-knowledge {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 60px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1409px;
+}
+.group-1597881488 {
+  width: 1023px;
+  height: 184px;
+  position: static;
+}
+.group-1597881487 {
+  width: 981px;
+  height: 125px;
+  position: static;
+}
+.globe-middle-east {
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  left: 212.5px;
+  top: 1465px;
+  box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.3);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.blog {
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  left: 499.5px;
+  top: 1465px;
+  box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.3);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.checkbook {
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  left: 783.5px;
+  top: 1465px;
+  box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.3);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.product-documents {
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  left: 1068.5px;
+  top: 1465px;
+  box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.3);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.global-visibility-indexing {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 600;
+  position: absolute;
+  left: 208.5px;
+  top: 1610px;
+}
+.rapid-peer-review-editorial-process {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 600;
+  position: absolute;
+  left: 483.5px;
+  top: 1610px;
+}
+.open-access-no-reader-barriers {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 600;
+  position: absolute;
+  left: 758.5px;
+  top: 1610px;
+}
+.interdisciplinary-reach-across-multiple-frontiers {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 600;
+  position: absolute;
+  left: 1030.5px;
+  top: 1610px;
+}
+.group-1597881459 {
+  width: 365px;
+  height: 87px;
+  position: static;
+}
+.submit-now-be-the-spark-shape-tomorrow {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 60px;
+  font-weight: 600;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1689px;
+}
+.frame-1597881709 {
+  background: linear-gradient(
+    90deg,
+    rgba(5, 169, 117, 1) 0%,
+    rgba(54, 109, 92, 1) 100%
+  );
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #4ea280;
+  border-width: 1px;
+  padding: 10px 24px 10px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 140.5px);
+  top: 1726px;
+}
+.start-your-submission {
+  color: #ffffff;
+  text-align: center;
+  font-family: "FrankRuhlLibre-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  position: relative;
+}
+.start-your-submission-span {
+}
+.start-your-submission-span2 {
+  text-transform: lowercase;
+}
+.ix-ink-pen {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.footer {
+  background: var(
+    --journal-nav,
+    linear-gradient(180deg, rgba(0, 100, 199, 1) 0%, rgba(0, 65, 129, 1) 100%)
+  );
+  width: 1440px;
+  height: 360px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow: hidden;
+}
+.group-1597881486 {
+  position: absolute;
+  inset: 0;
+}
+.kmed-journal-is-an-emerging-peer-reviewed-academic-open-access-publisher-our-objective-is-to-create-a-journal-of-international-standard-and-to-disseminate-novel-scientific-and-technical-information-to-all-fields-of-academic-study-we-publish-journals-across-the-entire-spectrum-of-science-we-also-aim-to-promote-research-identify-technological-advancement-by-circulating-scholarly-and-professional-content-worldwide {
+  color: #ffffff;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 34px;
+  font-weight: 600;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 60px;
+  width: 964px;
+}
+.frame-1597881724 {
+  display: flex;
+  flex-direction: row;
+  gap: 21.25px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 266px;
+}
+.typcn-social-facebook {
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.mingcute-social-x-line {
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.group {
+  width: 75%;
+  height: 86.71%;
+  position: absolute;
+  right: 12.5%;
+  left: 12.5%;
+  bottom: 0.79%;
+  top: 12.5%;
+  overflow: visible;
+}
+.ion-social-linkedin {
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.simple-line-icons-social-instagram {
+  flex-shrink: 0;
+  width: 32px;
+  height: 34px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 32/34;
+}
+.line-795 {
+  margin-top: -1.2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1.2px 0 0 0;
+  width: 956px;
+  height: 0px;
+  position: absolute;
+  left: 246px;
+  top: 226px;
+}
+.component-420 {
+  width: 1320px;
+  height: 816px;
+  position: absolute;
+  left: 60px;
+  top: 1886px;
+  overflow: hidden;
+}
+.thalaipu {
+  position: absolute;
+  inset: 0;
+}
+.component-417 {
+  background: #275f9e;
+  width: 440px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.featured {
+  color: #ffffff;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 177px;
+  top: 50%;
+  translate: 0 -50%;
+}
+.component-415 {
+  background: #ffffff;
+  width: 440px;
+  height: 40px;
+  position: absolute;
+  left: 440px;
+  top: 0px;
+  overflow: hidden;
+}
+.trending {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 174px;
+  top: 50%;
+  translate: 0 -50%;
+}
+.component-416 {
+  background: #ffffff;
+  width: 440px;
+  height: 40px;
+  position: absolute;
+  left: 880px;
+  top: 0px;
+  overflow: hidden;
+}
+.most-cited {
+  color: #275f9e;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 165px;
+  top: 50%;
+  translate: 0 -50%;
+}
+.frame-1597882029 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1320px;
+  position: absolute;
+  left: 0px;
+  top: 65px;
+}
+.frame-1597881670 {
+  background: #edf4fa;
+  border-radius: 10px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 237px;
+  position: relative;
+  overflow: hidden;
+}
+.context {
+  position: absolute;
+  inset: 0;
+}
+.reimagining-genetic-therapy-for-the-next-era {
+  color: #275f9e;
+  text-align: left;
+  font-family: "EbGaramond-Bold", sans-serif;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 364px;
+  top: 30px;
+}
+.advanced-machine-learning-models-now-decode-subtle-ecg-patterns-enabling-earlier-detection-of-arrhythmias-and-heart-failure-this-leap-reshapes-preventive-cardiology-empowering-physicians-with-sharper-insights-and-patients-with-renewed-hope {
+  color: #000000;
+  text-align: left;
+  font-family: "EbGaramond-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  position: absolute;
+  left: 364px;
+  top: 68px;
+  width: 906px;
+}
+.bio {
+  position: absolute;
+  inset: 0;
+}
+.frame-1597881629 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 110px;
+  position: absolute;
+  right: 50px;
+  top: calc(50% - -62.5px);
+}
+.frame-1000006398 {
+  padding: 10.83px;
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.group-1 {
+  height: auto;
+  position: absolute;
+  left: 4.33px;
+  top: 3.25px;
+  overflow: visible;
+}
+.frame-10000063982 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.share-ios-export-svgrepo-com {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1597881654 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 364px;
+  top: calc(50% - -69px);
+}
+._28-06-2025 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  position: relative;
+}
+.div {
+  color: #275f9e;
+  text-align: left;
+  font-family: "ProductSansLight-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  position: relative;
+}
+.roberto-benigni {
+  color: #275f9e;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  position: relative;
+}
+.bijgim {
+  color: #275f9e;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  position: relative;
+}
+.clinical-pharmacology {
+  color: #275f9e;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  position: relative;
+}
+.frame-1597881671 {
+  border-radius: 5px;
+  width: 294px;
+  height: 190px;
+  position: absolute;
+  left: 30px;
+  top: calc(50% - 98.5px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-15978816712 {
+  background: #edf4fa;
+  border-radius: 10px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 237px;
+  position: relative;
+  overflow: hidden;
+}
+.a-hybrid-closed-loop-insulin-delivery-system-demonstrates-remarkable-glycaemic-control-reducing-fluctuations-and-enhancing-patient-quality-of-life-this-innovation-ushers-in-a-transformative-era-of-personalised-endocrinology {
+  color: #000000;
+  text-align: left;
+  font-family: "EbGaramond-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  position: absolute;
+  left: 364px;
+  top: 68px;
+  width: 906px;
+}
+.group-12 {
+  height: auto;
+  position: absolute;
+  left: 4.33px;
+  top: 3.25px;
+  overflow: visible;
+}
+.frame-10000063983 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.share-ios-export-svgrepo-com2 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1597881672 {
+  background: #edf4fa;
+  border-radius: 10px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 237px;
+  position: relative;
+  overflow: hidden;
+}
+.novel-biologic-agents-target-airway-inflammation-at-its-root-offering-unprecedented-relief-for-severe-asthma-sufferers-the-advance-heralds-a-new-age-of-precision-respiratory-medicine {
+  color: #000000;
+  text-align: left;
+  font-family: "EbGaramond-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  position: absolute;
+  left: 364px;
+  top: 68px;
+  width: 906px;
+}
+.group-13 {
+  height: auto;
+  position: absolute;
+  left: 4.33px;
+  top: 3.25px;
+  overflow: visible;
+}
+.frame-10000063984 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.share-ios-export-svgrepo-com3 {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.group-1597881633 {
+  position: absolute;
+  inset: 0;
+}
+.group-1597881463 {
+  width: 847px;
+  height: 241px;
+  position: static;
+}
+.frame-1597881710 {
+  background: #edf4fa;
+  border-radius: 20px;
+  width: 847px;
+  height: 195px;
+  position: absolute;
+  left: 60px;
+  top: 2818px;
+}
+.group-1597881150 {
+  position: absolute;
+  inset: 0;
+}
+.frequency-of-publication-annual-jan-dec {
+  color: #275f9e;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frequency-of-publication-annual-jan-dec-span {
+  font-family: "FrankRuhlLibre-Bold", sans-serif;
+  font-weight: 700;
+}
+.frequency-of-publication-annual-jan-dec-span2 {
+  font-family: "FrankRuhlLibre-Regular", sans-serif;
+}
+.publication-format-online {
+  color: #275f9e;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 486px;
+  top: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.publication-format-online-span {
+  font-family: "FrankRuhlLibre-SemiBold", sans-serif;
+  font-weight: 600;
+}
+.publication-format-online-span2 {
+  font-family: "FrankRuhlLibre-Regular", sans-serif;
+}
+.group-1597881151 {
+  position: absolute;
+  inset: 0;
+}
+.language-english {
+  color: #275f9e;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 92px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.language-english-span {
+  font-family: "FrankRuhlLibre-Bold", sans-serif;
+  font-weight: 700;
+}
+.language-english-span2 {
+  font-family: "FrankRuhlLibre-Regular", sans-serif;
+}
+.starting-year-2023 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 264px;
+  top: 92px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.starting-year-2023-span {
+  font-family: "FrankRuhlLibre-Bold", sans-serif;
+  font-weight: 700;
+}
+.starting-year-2023-span2 {
+  font-family: "FrankRuhlLibre-Regular", sans-serif;
+}
+.license-cc-by-4-0 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 487px;
+  top: 92px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.license-cc-by-4-0-span {
+  font-family: "FrankRuhlLibre-Bold", sans-serif;
+  font-weight: 700;
+}
+.license-cc-by-4-0-span2 {
+  font-family: "FrankRuhlLibre-Regular", sans-serif;
+}
+.group-1597881152 {
+  position: absolute;
+  inset: 0;
+}
+.doi-10-54646-bijnn {
+  color: #275f9e;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 151px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.doi-10-54646-bijnn-span {
+  font-family: "FrankRuhlLibre-Bold", sans-serif;
+  font-weight: 700;
+}
+.doi-10-54646-bijnn-span2 {
+  font-family: "FrankRuhlLibre-Regular", sans-serif;
+}
+.copyright-statement-copyright-2024-the-author-s {
+  color: #275f9e;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 292px;
+  top: 151px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.copyright-statement-copyright-2024-the-author-s-span {
+  font-family: "FrankRuhlLibre-Bold", sans-serif;
+  font-weight: 700;
+}
+.copyright-statement-copyright-2024-the-author-s-span2 {
+  font-family: "FrankRuhlLibre-Regular", sans-serif;
+}
+.journal-particulars {
+  color: #000000;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  position: absolute;
+  left: 382px;
+  top: 2772px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-1597881465 {
+  width: 433px;
+  height: 241px;
+  position: static;
+}
+.group-1597881461 {
+  width: 433px;
+  height: 195px;
+  position: static;
+}
+.group-1597881460 {
+  width: 433px;
+  height: 195px;
+  position: static;
+}
+.rectangle-161124030 {
+  background: #edf4fa;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0.5px;
+  width: 433px;
+  height: 195px;
+  position: absolute;
+  left: 947px;
+  top: 2818px;
+}
+.fr {
+  background: #edf4fa;
+  width: 150px;
+  height: 39px;
+  position: absolute;
+  left: 987px;
+  top: 2896px;
+}
+.group-1597881156 {
+  position: absolute;
+  inset: 0;
+}
+.france {
+  opacity: 0.5;
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: blur(15px);
+}
+.box {
+  background: #ffffff;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.box2 {
+  background: #ce1126;
+  width: 33.33%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 66.67%;
+  bottom: 0%;
+  top: 0%;
+}
+.box3 {
+  background: #ffffff;
+  width: 33.33%;
+  height: 100%;
+  position: absolute;
+  right: 33.33%;
+  left: 33.33%;
+  bottom: 0%;
+  top: 0%;
+}
+.box4 {
+  background: #002654;
+  width: 33.33%;
+  height: 100%;
+  position: absolute;
+  right: 66.67%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.france2 {
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1597881265 {
+  border-radius: 30px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 39px;
+  position: absolute;
+  left: 70px;
+  top: 0px;
+}
+.fr-220 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.fr2 {
+  background: #edf4fa;
+  width: 150px;
+  height: 39px;
+  position: absolute;
+  left: 1190px;
+  top: 2896px;
+}
+.russia {
+  opacity: 0.5;
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: blur(15px);
+}
+.box5 {
+  background: #d52b1e;
+  width: 100%;
+  height: 33.33%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 66.67%;
+}
+.box6 {
+  background: #0039a6;
+  width: 100%;
+  height: 33.33%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 33.33%;
+  top: 33.33%;
+}
+.box7 {
+  background: #ffffff;
+  width: 100%;
+  height: 33.33%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 66.67%;
+  top: 0%;
+}
+.russia2 {
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ru-82 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gr {
+  background: #edf4fa;
+  width: 150px;
+  height: 39px;
+  position: absolute;
+  left: 987px;
+  top: 2955px;
+}
+.group-1597881157 {
+  position: absolute;
+  inset: 0;
+}
+.germany {
+  opacity: 0.5;
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: blur(15px);
+}
+.box8 {
+  background: #dd0000;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.box9 {
+  background: #ffce00;
+  width: 100%;
+  height: 33.33%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 66.67%;
+}
+.box10 {
+  background: #dd0000;
+  width: 100%;
+  height: 33.33%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 33.33%;
+  top: 33.33%;
+}
+.box11 {
+  background: #275f9e;
+  width: 100%;
+  height: 33.33%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 66.67%;
+  top: 0%;
+}
+.germany2 {
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.box12 {
+  background: #000000;
+  width: 100%;
+  height: 33.33%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 66.67%;
+  top: 0%;
+}
+.frame-1597881266 {
+  border-radius: 30px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 39px;
+  position: absolute;
+  left: 70px;
+  top: 0px;
+}
+.gr-120 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gr2 {
+  background: #edf4fa;
+  width: 150px;
+  height: 39px;
+  position: absolute;
+  left: 1190px;
+  top: 2955px;
+}
+.canada {
+  opacity: 0.5;
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.canada2 {
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.ca-42 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.us {
+  background: #edf4fa;
+  width: 150px;
+  height: 39px;
+  position: absolute;
+  left: 987px;
+  top: 2837px;
+}
+.group-1597881155 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1597881264 {
+  border-radius: 30px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 39px;
+  position: absolute;
+  left: 70px;
+  top: 0px;
+}
+.us-2-176 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.united-states {
+  border-radius: 50px;
+  opacity: 0.5;
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.united-states2 {
+  border-radius: 50px;
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.us2 {
+  background: #edf4fa;
+  width: 150px;
+  height: 39px;
+  position: absolute;
+  left: 1190px;
+  top: 2837px;
+}
+.jp-153 {
+  color: #275f9e;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.japan {
+  opacity: 0.5;
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: blur(25px);
+}
+.box13 {
+  background: #bc002d;
+  border-radius: 12.06px;
+  width: 41.03%;
+  height: 59.26%;
+  position: absolute;
+  right: 29.49%;
+  left: 29.49%;
+  bottom: 20.37%;
+  top: 20.37%;
+}
+.japan2 {
+  width: 57px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-1597881462 {
+  width: 355px;
+  height: 165px;
+  position: absolute;
+  left: 986px;
+  top: 2833px;
+  overflow: visible;
+}
+.journal-visitors {
+  color: #000000;
+  text-align: center;
+  font-family: "EbGaramond-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  position: absolute;
+  left: 1079px;
+  top: 2772px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero {
+  width: 1440px;
+  height: 830px;
+  position: absolute;
+  left: 1px;
+  top: 45px;
+  overflow: hidden;
+}
+.l-ight-bg {
+  position: absolute;
+  inset: 0;
+}
+.kmed-j-bg-1 {
+  width: 1440px;
+  height: 1080px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: -169px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+.ellipse-1289 {
+  background: rgba(0, 49, 122, 0.6);
+  border-radius: 50%;
+  width: 1410px;
+  height: 751px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 428px);
+  filter: blur(150px);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1203px;
+  height: 276px;
+  position: absolute;
+  left: calc(50% - 606px);
+  top: 50%;
+  translate: 0 -50%;
+}
+.frame-95623 {
+  display: flex;
+  flex-direction: row;
+  gap: 11.19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.welcome-to-kmed-journal {
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.welcome-to-kmed-journal-span {
+  font-family: "CormorantGaramond-Light", sans-serif;
+  font-size: 44px;
+  line-height: 26.77px;
+  font-weight: 300;
+}
+.welcome-to-kmed-journal-span2 {
+  font-family: "CormorantGaramond-Bold", sans-serif;
+  font-size: 44.77987289428711px;
+  line-height: 26.77px;
+  font-weight: 700;
+}
+.welcome-to-kmed-journal-span3 {
+  font-family: "Ponzu-Medium", sans-serif;
+  font-size: 56px;
+  line-height: 26.77px;
+  font-weight: 500;
+}
+.vector {
+  flex-shrink: 0;
+  width: 22px;
+  height: 15px;
+  position: relative;
+  overflow: visible;
+}
+.pioneering-tomorrow-s-medicine-through-today-s-research {
+  color: #ffffff;
+  text-align: center;
+  font-family: "EbGaramond-Medium", sans-serif;
+  font-size: 50px;
+  line-height: 68px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.read-publish-and-share-cutting-edge-research-across-diverse-medical-specialities {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantGaramond-Regular", sans-serif;
+  font-size: 34px;
+  line-height: 60px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-1597881637 {
+  flex-shrink: 0;
+  width: 567px;
+  height: 52px;
+  position: static;
+}
+.search {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 55.97px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: var(
+    --white-glass-linear-stroke,
+    linear-gradient(
+      71.9deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 0.4) 27.403846383094788%,
+      rgba(255, 255, 255, 0) 50%,
+      rgba(255, 255, 255, 0.4) 76.92307829856873%,
+      rgba(255, 255, 255, 1) 100%
+    )
+  );
+  border-image-slice: 1;
+  padding: 14px 30px 14px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 318px;
+  top: 224px;
+  box-shadow: 0px 2.24px 8.96px 0px rgba(0, 0, 0, 0.1);
+}
+.search2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.search-by-article-publisher-speciality {
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22.39px;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1597882033 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 805px;
+  top: 233px;
+}
+.frame-1597882034 {
+  background: rgba(0, 0, 0, 0);
+  border-radius: 30px;
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  position: relative;
+}
+.rectangle-34624103 {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 25px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.material-symbols-mic-outline-rounded {
+  width: 21.37px;
+  height: 23.66px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  overflow: visible;
+  aspect-ratio: 21.37/23.66;
+}
+.frame-1597882035 {
+  background: rgba(0, 0, 0, 0);
+  border-radius: 30px;
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  position: relative;
+}
+.rectangle-346241032 {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 25px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.ic-outline-search {
+  width: 23px;
+  height: 21px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  overflow: visible;
+  aspect-ratio: 23/21;
+}
+.group-1597881628 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1597882025 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 317.5px);
+  top: 708px;
+}
+.submit {
+  background: var(
+    --orange-grad,
+    linear-gradient(
+      91.65deg,
+      rgba(138, 35, 135, 1) 0%,
+      rgba(233, 64, 87, 1) 50%,
+      rgba(242, 113, 33, 1) 100%
+    )
+  );
+  border-radius: 50px;
+  padding: 16px 30px 16px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.submit-your-manuscript {
+  color: #ffffff;
+  text-align: left;
+  font-family: "DmSans-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 600;
+  position: relative;
+}
+.ix-ink-pen2 {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.explore {
+  background: rgba(0, 0, 0, 0);
+  border-radius: 50px;
+  padding: 16px 30px 16px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.explore-latest-articles {
+  color: #ffffff;
+  text-align: left;
+  font-family: "DmSans-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.material-symbols-light-book-ribbon {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.explore-more-than-1000-articles-from-our-30-open-access-journals {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CormorantInfant-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 648px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1597882038 {
+  width: 1440px;
+  height: 100px;
+  position: fixed;
+  left: 1px;
+  top: 0px;
+}
+.frame-1597882037 {
+  width: 1440px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-1597882036 {
+  width: 1440px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.header-black {
+  background: rgba(0, 39, 83, 0.6);
+  width: 1440px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(100px);
+}
+.group-1597881393 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1597882018 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 317px);
+  top: calc(50% - 19px);
+}
+.frame-1597882017 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #ffffff;
+  text-align: right;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-1597882019 {
+  opacity: 0.7;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.journals {
+  color: #ffffff;
+  text-align: right;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.menu-down {
+  flex-shrink: 0;
+  width: 11px;
+  height: 5px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1597882021 {
+  opacity: 0.7;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.guidelines {
+  color: #ffffff;
+  text-align: right;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.menu-down2 {
+  flex-shrink: 0;
+  width: 11px;
+  height: 5px;
+  position: relative;
+  overflow: visible;
+}
+.frame-15978820252 {
+  opacity: 0.7;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.support {
+  color: #ffffff;
+  text-align: right;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.menu-down3 {
+  flex-shrink: 0;
+  width: 11px;
+  height: 5px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1597882023 {
+  opacity: 0.7;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.news-updates {
+  color: #ffffff;
+  text-align: right;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.group-1597881624 {
+  width: 216px;
+  height: 55px;
+  position: static;
+}
+.frame-3 {
+  background: rgba(0, 0, 0, 0);
+  border-radius: 50px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1240px;
+  top: 22px;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font-family: "DmSans-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "DmSans-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 1174px;
+  top: 37px;
+}
+.vector2 {
+  width: 107px;
+  height: 56.74px;
+  position: absolute;
+  left: 50px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+}
+.frame-15978820382 {
+  width: 1440px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.menu-down4 {
+  flex-shrink: 0;
+  width: 11px;
+  height: 5px;
+  position: relative;
+  overflow: visible;
+}
+.menu-down5 {
+  flex-shrink: 0;
+  width: 11px;
+  height: 5px;
+  position: relative;
+  overflow: visible;
+}
+.menu-down6 {
+  flex-shrink: 0;
+  width: 11px;
+  height: 5px;
+  position: relative;
+  overflow: visible;
+}
+.vector3 {
+  width: 107px;
+  height: 56.74px;
+  position: absolute;
+  left: 50px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+}
